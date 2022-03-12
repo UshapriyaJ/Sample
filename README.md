@@ -1,3 +1,4 @@
 # Sample
 First Learning document
-I am adding one more line to check the version and changes
+
+I am removing one line to check the removal changes
